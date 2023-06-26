@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/*
+*.shp
+*.cpg
+*.sbx
+*.sbn
+*.shx
+*.prj
+*.dbf
+Data/shp_bdry_census2020counties_ctus/*
