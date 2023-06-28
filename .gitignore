@@ -6,4 +6,5 @@
 *.shx
 *.prj
 *.dbf
-Data/shp_bdry_census2020counties_ctus/*
+Data/*
+Python/1_QAQC/Historic_PurpleAir/Scratch-Daily_Summaries.ipynb
